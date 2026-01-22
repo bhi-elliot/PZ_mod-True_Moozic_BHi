@@ -1,0 +1,1328 @@
+module True_Moozic_BHi
+{
+	imports
+	{
+		Base
+	}
+
+	item CassetteAFlockOfSeagullsIRanSoFarAway198
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette A Flock Of Seagulls - I Ran (So Far Away) (1982),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteATribeCalledQuestCanIKickIt1990
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette A Tribe Called Quest - Can I Kick It (1990),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteAHaTakeOnMe1985
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette A-Ha - Take On Me (1985),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteABBADancingQueen1976
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette ABBA - Dancing Queen (1976),
+		WorldStaticModel = True_Moozic_BHi.TCTape7,
+		CanSpawn		=	true,
+	}
+
+	item CassetteACDCBackInBlack1980
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette ACDC - Back In Black (1980),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteAlabamaSongoftheSouth1988
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Alabama - Song of the South (1988),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteAmericaAHorseWithNoName1972
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette America - A Horse With No Name (1972),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteAmericaSisterGoldenHair1975
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette America - Sister Golden Hair (1975),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteArvoPartSpiegelImSpiegel1978
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Arvo Part - Spiegel Im Spiegel (1978),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBeGoodTanyasDogsongakaSleepDogLu
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Be Good Tanyas - Dogsong aka Sleep Dog Lullaby (2011),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBeGoodTanyasUpAgainstTheWall2011
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Be Good Tanyas - Up Against The Wall (2011),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBeastieBoysIntergalactic1998
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Beastie Boys - Intergalactic (1998),
+		WorldStaticModel = True_Moozic_BHi.TCTape10,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBeastieBoysSabotage1994
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Beastie Boys - Sabotage (1994),
+		WorldStaticModel = True_Moozic_BHi.TCTape6,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBeeGeesMoreThanAWoman1977
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Bee Gees - More Than A Woman (1977),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBillyIdolDancingwithmyself1980
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Billy Idol - Dancing with myself (1980),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBillyJoelPianoMan1973
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Billy Joel - Piano Man (1973),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBillyJoelUptownGirl1983
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Billy Joel - Uptown Girl (1983),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBlondieHeartOfGlass1979
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Blondie - Heart Of Glass (1979),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBobDylanHighway61Revisited1965
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Bob Dylan - Highway 61 Revisited (1965),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBobDylanJustLikeTomThumbsBlues19
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Bob Dylan - Just Like Tom Thumb's Blues (1965),
+		WorldStaticModel = True_Moozic_BHi.TCTape3,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBobDylanLastThoughtsOnWoodyGuthr
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Bob Dylan - Last Thoughts On Woody Guthrie (1963),
+		WorldStaticModel = True_Moozic_BHi.TCTape10,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBobDylanVisionsOfJohanna1966
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Bob Dylan - Visions Of Johanna (1966),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBobMarleyTheWailersJamming1977
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Bob Marley & The Wailers - Jamming (1977),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBobMarleyTheWailersRedemptionSon
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Bob Marley & The Wailers - Redemption Song (1980),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBobMarleyTheWailersThreeLittleBi
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Bob Marley & The Wailers - Three Little Birds (1977),
+		WorldStaticModel = True_Moozic_BHi.TCTape10,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBobbyMcFerrinDontWorryBeHappy198
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Bobby McFerrin - Don't Worry Be Happy (1988),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBonJoviLivinOnAPrayer1986
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Bon Jovi - Livin' On A Prayer (1986),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBoneyMGattagohome1979
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Boney M. - Gatta go home (1979),
+		WorldStaticModel = True_Moozic_BHi.TCTape10,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBoyzIIMenMotownphilly1991
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape12,
+		DisplayName		=	Cassette Boyz II Men - Motownphilly (1991),
+		WorldStaticModel = True_Moozic_BHi.TCTape12,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBruceHornsbyTheWayItIs1986
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Bruce Hornsby - The Way It Is (1986),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteBryanAdamsSummerOf691984
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Bryan Adams - Summer Of '69 (1984),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteChumbawambaTubthumping1997
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Chumbawamba - Tubthumping (1997),
+		WorldStaticModel = True_Moozic_BHi.TCTape4,
+		CanSpawn		=	true,
+	}
+
+	item CassetteClashRocktheCasbah1982
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Clash - Rock the Casbah (1982),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCoolioGangstasParadise1995
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Coolio - Gangsta's Paradise (1995),
+		WorldStaticModel = True_Moozic_BHi.TCTape9,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCreedenceClearwaterRevivalFortun
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape12,
+		DisplayName		=	Cassette Creedence Clearwater Revival - Fortunate Son (1969),
+		WorldStaticModel = True_Moozic_BHi.TCTape12,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCreedenceClearwaterRevivalHaveYo
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Creedence Clearwater Revival - Have You Ever Seen the Rain (1968),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCultureClubKarmaChameleon1983
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Culture Club - Karma Chameleon (1983),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCyndiLauperAllThroughTheNight198
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Cyndi Lauper - All Through The Night (1983),
+		WorldStaticModel = True_Moozic_BHi.TCTape7,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCyndiLauperGirlsJustWantToHaveFu
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Cyndi Lauper - Girls Just Want To Have Fun (1983),
+		WorldStaticModel = True_Moozic_BHi.TCTape3,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCyndiLauperHeyNowGirlsJustWantTo
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Cyndi Lauper - Hey Now (Girls Just Want To Have Fun) (1983),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCyndiLauperIDroveAllNight1989
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Cyndi Lauper - I Drove All Night (1989),
+		WorldStaticModel = True_Moozic_BHi.TCTape6,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCyndiLauperSheBop1983
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Cyndi Lauper - She Bop (1983),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCyndiLauperTheGooniesRGoodEnough
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Cyndi Lauper - The Goonies 'R' Good Enough (1985),
+		WorldStaticModel = True_Moozic_BHi.TCTape3,
+		CanSpawn		=	true,
+	}
+
+	item CassetteCyndiLauperWhenYouWereMine1985
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Cyndi Lauper - When You Were Mine (1985),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteDarylHallJohnOatesManeater1982
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Daryl Hall & John Oates - Maneater (1982),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteDavidBowieSpaceOddity1969
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette David Bowie  Space Oddity (1969),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteDavidBowieQueenUnderPressure1981
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette David Bowie & Queen - Under Pressure (1981),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteDavidBowieSuffragetteCity1972
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette David Bowie - Suffragette City (1972),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteDavidBowieThemanwhosoldtheworld1
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape12,
+		DisplayName		=	Cassette David Bowie - The man who sold the world (1970),
+		WorldStaticModel = True_Moozic_BHi.TCTape12,
+		CanSpawn		=	true,
+	}
+
+	item CassetteDevoWhipIt1980
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Devo - Whip It (1980),
+		WorldStaticModel = True_Moozic_BHi.TCTape7,
+		CanSpawn		=	true,
+	}
+
+	item CassetteDonMcleanAmericanPie1971
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Don Mclean - American Pie (1971),
+		WorldStaticModel = True_Moozic_BHi.TCTape3,
+		CanSpawn		=	true,
+	}
+
+	item CassetteEaglesHotelCalifornia1977
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Eagles - Hotel California (1977),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteELOMrBlueSky1977
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette ELO - Mr. Blue Sky (1977),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteEltonJohnRocketMan1972
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Elton John - Rocket Man (1972),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteEuropeTheFinalCountdown1986
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape12,
+		DisplayName		=	Cassette Europe - The Final Countdown (1986),
+		WorldStaticModel = True_Moozic_BHi.TCTape12,
+		CanSpawn		=	true,
+	}
+
+	item CassetteGaryNumanCars1979
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Gary Numan - Cars (1979),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteGershonKingsleyPopcorn1969
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Gershon Kingsley - Popcorn (1969),
+		WorldStaticModel = True_Moozic_BHi.TCTape9,
+		CanSpawn		=	true,
+	}
+
+	item CassetteGunsNRosesWelcomeToTheJungle1987
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Guns N' Roses - Welcome To The Jungle (1987),
+		WorldStaticModel = True_Moozic_BHi.TCTape10,
+		CanSpawn		=	true,
+	}
+
+	item CassetteHouseofPainJumpAround1992
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette House of Pain - Jump Around (1992),
+		WorldStaticModel = True_Moozic_BHi.TCTape3,
+		CanSpawn		=	true,
+	}
+
+	item CassetteJimCroceTimeInABottle1972
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Jim Croce - Time In A Bottle (1972),
+		WorldStaticModel = True_Moozic_BHi.TCTape3,
+		CanSpawn		=	true,
+	}
+
+	item CassetteKansasDustintheWind1977
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape12,
+		DisplayName		=	Cassette Kansas - Dust in the Wind (1977),
+		WorldStaticModel = True_Moozic_BHi.TCTape12,
+		CanSpawn		=	true,
+	}
+
+	item CassetteKennyLogginsDangerZone1986
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Kenny Loggins - Danger Zone (1986),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteKraftwerkPocketCalculator1981
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Kraftwerk - Pocket Calculator (1981),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteLaurieAndersonOSuperman1981
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Laurie Anderson - O Superman (1981),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteLeonardCohenFamousBlueRaincoat19
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Leonard Cohen - Famous Blue Raincoat (1971),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteLLCOOLJMamaSaidKnockYouOut1990
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette LL COOL J - Mama Said Knock You Out (1990),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteLouReedPerfectDay1972
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Lou Reed - Perfect Day (1972),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteLouReedWalkontheWildSide1972
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Lou Reed - Walk on the Wild Side (1972),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteLoverboyWorkingfortheWeekend1981
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Loverboy - Working for the Weekend (1981),
+		WorldStaticModel = True_Moozic_BHi.TCTape4,
+		CanSpawn		=	true,
+	}
+
+	item CassetteLynrydSkynyrdSweetHomeAlabama197
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Lynryd Skynyrd - Sweet Home Alabama (1974),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteMadonnaLikeAVirgin1984
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Madonna - Like A Virgin (1984),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteMatthewWilderBreakMyStride1983
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Matthew Wilder - Break My Stride (1983),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteMCHammerUCantTouchThis1990
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette MC Hammer - U Can't Touch This (1990),
+		WorldStaticModel = True_Moozic_BHi.TCTape10,
+		CanSpawn		=	true,
+	}
+
+	item CassetteMichaelJacksonBeatIt1982
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Michael Jackson - Beat It (1982),
+		WorldStaticModel = True_Moozic_BHi.TCTape6,
+		CanSpawn		=	true,
+	}
+
+	item CassetteMichaelJacksonThriller1983
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Michael Jackson - Thriller (1983),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteMotorheadAceOfSpades1980
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Motorhead - Ace Of Spades (1980),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteNatalieImbrugliaTorn1997
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Natalie Imbruglia - Torn (1997),
+		WorldStaticModel = True_Moozic_BHi.TCTape3,
+		CanSpawn		=	true,
+	}
+
+	item CassetteNaughtyByNatureOPP1991
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Naughty By Nature - O.P.P. (1991),
+		WorldStaticModel = True_Moozic_BHi.TCTape3,
+		CanSpawn		=	true,
+	}
+
+	item CassetteNeilYoungCinnamonGirl1969
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape12,
+		DisplayName		=	Cassette Neil Young - Cinnamon Girl (1969),
+		WorldStaticModel = True_Moozic_BHi.TCTape12,
+		CanSpawn		=	true,
+	}
+
+	item CassetteNeilYoungCowgirlInTheSand1969
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Neil Young - Cowgirl In The Sand (1969),
+		WorldStaticModel = True_Moozic_BHi.TCTape3,
+		CanSpawn		=	true,
+	}
+
+	item CassetteNENA99RedBalloons1984
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette NENA - 99 Red Balloons (1984),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassettePinkFloydComfortablyNumb1980
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Pink Floyd - Comfortably Numb (1980),
+		WorldStaticModel = True_Moozic_BHi.TCTape7,
+		CanSpawn		=	true,
+	}
+
+	item CassetteQueenAnotherOneBitestheDust1980
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Queen - Another One Bites the Dust (1980),
+		WorldStaticModel = True_Moozic_BHi.TCTape9,
+		CanSpawn		=	true,
+	}
+
+	item CassetteQueenBohemianRhapsody1975
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape12,
+		DisplayName		=	Cassette Queen - Bohemian Rhapsody (1975),
+		WorldStaticModel = True_Moozic_BHi.TCTape12,
+		CanSpawn		=	true,
+	}
+
+	item CassetteRedboneComeandGetYourLove1973
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Redbone - Come and Get Your Love (1973),
+		WorldStaticModel = True_Moozic_BHi.TCTape4,
+		CanSpawn		=	true,
+	}
+
+	item CassetteREOSpeedwagonCantFightThisFeelin
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette REO Speedwagon - Can't Fight This Feeling (1984),
+		WorldStaticModel = True_Moozic_BHi.TCTape10,
+		CanSpawn		=	true,
+	}
+
+	item CassetteRickAstleyNeverGonnaGiveYouUp198
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Rick Astley - Never Gonna Give You Up (1987),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteRollingStonesPaintItBlack1966
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Rolling Stones - Paint It Black (1966),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteSaltNPepaShoop1993
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Salt-N-Pepa - Shoop (1993),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteScatmanskibabopbadopbop1995
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Scatman (ski-ba-bop-ba-dop-bop) (1995),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteSimonGarfunkelCecilia1970
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Simon & Garfunkel - Cecilia (1970),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteSimonGarfunkelMrsRobinson1968
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Simon & Garfunkel - Mrs. Robinson (1968),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteSineadOConnorNothingCompares2U19
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Sinead O'Connor - Nothing Compares 2 U (1992),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteSirMixALotBabyGotBack1992
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Sir Mix-A-Lot - Baby Got Back (1992),
+		WorldStaticModel = True_Moozic_BHi.TCTape3,
+		CanSpawn		=	true,
+	}
+
+	item CassetteStarshipNothingsGonnaStopUsNow19
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Starship - Nothing's Gonna Stop Us Now (1987),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteSteveEarleColoradoGirl2009
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Steve Earle - Colorado Girl (2009),
+		WorldStaticModel = True_Moozic_BHi.TCTape9,
+		CanSpawn		=	true,
+	}
+
+	item CassetteSteveEarleLoretta2009
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Steve Earle - Loretta (2009),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteSteveEarleWhiteFreightlinerBlues
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Steve Earle - White Freightliner Blues (2009),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTacoPuttinOnTheRitz1982
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Taco - Puttin' On The Ritz (1982),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTalkingHeadsOnceinaLifetime1980
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Talking Heads - Once in a Lifetime (1980),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTalkingHeadsPsychoKiller1977
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Talking Heads - Psycho Killer (1977),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTearsforFearsEverybodyWantstoRul
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Tears for Fears - Everybody Wants to Rule the World (1985),
+		WorldStaticModel = True_Moozic_BHi.TCTape8,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTechnoSyndromeMortalKombat1994
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Techno Syndrome (Mortal Kombat) (1994),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTechnotronicPumpUpTheJam1989
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Technotronic - Pump Up The Jam (1989),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTheAnimalsHouseoftheRisingSun196
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette The Animals - House of the Rising Sun (1964),
+		WorldStaticModel = True_Moozic_BHi.TCTape10,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTheBeachBoysKokomo1988
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette The Beach Boys - Kokomo (1988),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTheBugglesVideoKilledtheRadioSta
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette The Buggles - Video Killed the Radio Star (1979),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTheLastofUs2013
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette The Last of Us (2013),
+		WorldStaticModel = True_Moozic_BHi.TCTape4,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTheOhHellosSoldierPoetKing2015
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette The Oh Hellos - Soldier Poet King (2015),
+		WorldStaticModel = True_Moozic_BHi.TCTape2,
+		CanSpawn		=	true,
+	}
+
+	item CassetteThePoliceEverybreathyoutake1983
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette The Police - Every breath you take (1983),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteThePoliceRoxanne1979
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape12,
+		DisplayName		=	Cassette The Police - Roxanne (1979),
+		WorldStaticModel = True_Moozic_BHi.TCTape12,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTheProdigyBreathe1996
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette The Prodigy - Breathe (1996),
+		WorldStaticModel = True_Moozic_BHi.TCTape6,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTheShinsNewSlang2001
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette The Shins - New Slang (2001),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTheStranglersGoldenBrown1981
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette The Stranglers - Golden Brown (1981),
+		WorldStaticModel = True_Moozic_BHi.TCTape7,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTheVerveBitterSweetSymphony1997
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette The Verve - Bitter Sweet Symphony (1997),
+		WorldStaticModel = True_Moozic_BHi.TCTape4,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTiffanyIThinkWereAloneNow1987
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Tiffany - I Think We're Alone Now (1987),
+		WorldStaticModel = True_Moozic_BHi.TCTape1,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTomPettyFreeFalling1988
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape12,
+		DisplayName		=	Cassette Tom Petty - Free Falling (1988),
+		WorldStaticModel = True_Moozic_BHi.TCTape12,
+		CanSpawn		=	true,
+	}
+
+	item CassetteToneLocFunkyColdMedina1989
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Tone-Loc - Funky Cold Medina (1989),
+		WorldStaticModel = True_Moozic_BHi.TCTape11,
+		CanSpawn		=	true,
+	}
+
+	item CassetteTwistedSisterWereNotGonnaTakeIt1
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Twisted Sister - We're Not Gonna Take It (1984),
+		WorldStaticModel = True_Moozic_BHi.TCTape5,
+		CanSpawn		=	true,
+	}
+
+	item CassetteVanillaIceIceIceBaby1990
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Vanilla Ice - Ice Ice Baby (1990),
+		WorldStaticModel = True_Moozic_BHi.TCTape6,
+		CanSpawn		=	true,
+	}
+
+}
