@@ -456,7 +456,7 @@ module True_Moozic_BHi
 		master = Ambient,
 		clip
 		{
-			file = media/sound/True_Moozic_BHi/David Bowie  Space Oddity (1969).ogg,
+			file = media/sound/True_Moozic_BHi/David Bowie - Space Oddity (1969).ogg,
 			distanceMax = 75,
 		}
 	}
