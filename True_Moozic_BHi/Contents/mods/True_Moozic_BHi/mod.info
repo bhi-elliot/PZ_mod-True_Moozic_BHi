@@ -1,8 +1,8 @@
-name=True Moozic Jampack addon Berny's mixtape 3.15.42.13.1 B42.13+
+name=True Moozic Jampack addon Berny's mixtape 3.16.42.13.2 B42.13+
 poster=poster.png
 id=True_Moozic_BHi
 versionMin=42.13
-modversion=3.15.42.13.1
+modversion=3.16.42.13.2
 icon=icon.png
 require=\TrueMoozic
 description=[h1]Listen to the hottest beats of the times while slaying zeds! 120 songs on this mixtape![/h1]
