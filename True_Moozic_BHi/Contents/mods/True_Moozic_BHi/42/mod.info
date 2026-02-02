@@ -1,11 +1,11 @@
-name=True Moozic Jampack addon Berny's mixtape 3.16.42.13.2 B42.13+
+name=True Moozic Jampack addon Berny's mixtape 3.17.42.13.2 B42.13+
 poster=poster.png
 poster=preview1.png
 poster=preview2.png
 poster=preview3.png
 id=True_Moozic_BHi
 versionMin=42.13
-modversion=3.16.42.13.2
+modversion=3.17.42.13.2
 icon=icon.png
 require=\TrueMoozic
 description=<RGB:1,0.4,0.8>Listen to the hottest beats of the times while slaying zeds! <LINE><LINE> <RGB:1,1,1> To find the cassettes search gloveboxes, homes, school lockers. If you add this add-on to an old world, you must search new areas that are unexplored for the items to show up.

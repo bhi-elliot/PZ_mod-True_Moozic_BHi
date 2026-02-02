@@ -11,7 +11,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette A Flock Of Seagulls - I Ran (So Far Away) (1982),
+		DisplayName		=	Tape: A Flock Of Seagulls - I Ran (So Far Away) (1982),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -22,7 +22,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette A Tribe Called Quest - Can I Kick It (1990),
+		DisplayName		=	Tape: A Tribe Called Quest - Can I Kick It (1990),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -33,7 +33,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette A-Ha - Take On Me (1985),
+		DisplayName		=	Tape: A-Ha - Take On Me (1985),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -44,7 +44,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape7,
-		DisplayName		=	Cassette ABBA - Dancing Queen (1976),
+		DisplayName		=	Tape: ABBA - Dancing Queen (1976),
 		WorldStaticModel = True_Moozic_BHi.TCTape7,
 		CanSpawn		=	true,
 	}
@@ -55,7 +55,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette ACDC - Back In Black (1980),
+		DisplayName		=	Tape: ACDC - Back In Black (1980),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -66,7 +66,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Alabama - Song of the South (1988),
+		DisplayName		=	Tape: Alabama - Song of the South (1988),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -77,7 +77,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette America - A Horse With No Name (1972),
+		DisplayName		=	Tape: America - A Horse With No Name (1972),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -88,7 +88,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette America - Sister Golden Hair (1975),
+		DisplayName		=	Tape: America - Sister Golden Hair (1975),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -99,7 +99,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Arvo Part - Spiegel Im Spiegel (1978),
+		DisplayName		=	Tape: Arvo Part - Spiegel Im Spiegel (1978),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -110,7 +110,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette Be Good Tanyas - Dogsong aka Sleep Dog Lullaby (2011),
+		DisplayName		=	Tape: Be Good Tanyas - Dogsong aka Sleep Dog Lullaby (2011),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -121,7 +121,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Be Good Tanyas - Up Against The Wall (2011),
+		DisplayName		=	Tape: Be Good Tanyas - Up Against The Wall (2011),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -132,7 +132,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape10,
-		DisplayName		=	Cassette Beastie Boys - Intergalactic (1998),
+		DisplayName		=	Tape: Beastie Boys - Intergalactic (1998),
 		WorldStaticModel = True_Moozic_BHi.TCTape10,
 		CanSpawn		=	true,
 	}
@@ -143,7 +143,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape6,
-		DisplayName		=	Cassette Beastie Boys - Sabotage (1994),
+		DisplayName		=	Tape: Beastie Boys - Sabotage (1994),
 		WorldStaticModel = True_Moozic_BHi.TCTape6,
 		CanSpawn		=	true,
 	}
@@ -154,7 +154,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Bee Gees - More Than A Woman (1977),
+		DisplayName		=	Tape: Bee Gees - More Than A Woman (1977),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -165,7 +165,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette Billy Idol - Dancing with myself (1980),
+		DisplayName		=	Tape: Billy Idol - Dancing with myself (1980),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -176,7 +176,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Billy Joel - Piano Man (1973),
+		DisplayName		=	Tape: Billy Joel - Piano Man (1973),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -187,7 +187,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Billy Joel - Uptown Girl (1983),
+		DisplayName		=	Tape: Billy Joel - Uptown Girl (1983),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -198,7 +198,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Blondie - Heart Of Glass (1979),
+		DisplayName		=	Tape: Blondie - Heart Of Glass (1979),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -209,7 +209,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Bob Dylan - Highway 61 Revisited (1965),
+		DisplayName		=	Tape: Bob Dylan - Highway 61 Revisited (1965),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -220,7 +220,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape3,
-		DisplayName		=	Cassette Bob Dylan - Just Like Tom Thumb's Blues (1965),
+		DisplayName		=	Tape: Bob Dylan - Just Like Tom Thumb's Blues (1965),
 		WorldStaticModel = True_Moozic_BHi.TCTape3,
 		CanSpawn		=	true,
 	}
@@ -231,7 +231,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape10,
-		DisplayName		=	Cassette Bob Dylan - Last Thoughts On Woody Guthrie (1963),
+		DisplayName		=	Tape: Bob Dylan - Last Thoughts On Woody Guthrie (1963),
 		WorldStaticModel = True_Moozic_BHi.TCTape10,
 		CanSpawn		=	true,
 	}
@@ -242,7 +242,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette Bob Dylan - Visions Of Johanna (1966),
+		DisplayName		=	Tape: Bob Dylan - Visions Of Johanna (1966),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -253,7 +253,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Bob Marley & The Wailers - Jamming (1977),
+		DisplayName		=	Tape: Bob Marley & The Wailers - Jamming (1977),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -264,7 +264,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Bob Marley & The Wailers - Redemption Song (1980),
+		DisplayName		=	Tape: Bob Marley & The Wailers - Redemption Song (1980),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -275,7 +275,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape10,
-		DisplayName		=	Cassette Bob Marley & The Wailers - Three Little Birds (1977),
+		DisplayName		=	Tape: Bob Marley & The Wailers - Three Little Birds (1977),
 		WorldStaticModel = True_Moozic_BHi.TCTape10,
 		CanSpawn		=	true,
 	}
@@ -286,7 +286,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette Bobby McFerrin - Don't Worry Be Happy (1988),
+		DisplayName		=	Tape: Bobby McFerrin - Don't Worry Be Happy (1988),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -297,7 +297,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Bon Jovi - Livin' On A Prayer (1986),
+		DisplayName		=	Tape: Bon Jovi - Livin' On A Prayer (1986),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -308,7 +308,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape10,
-		DisplayName		=	Cassette Boney M. - Gatta go home (1979),
+		DisplayName		=	Tape: Boney M. - Gatta go home (1979),
 		WorldStaticModel = True_Moozic_BHi.TCTape10,
 		CanSpawn		=	true,
 	}
@@ -319,7 +319,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape12,
-		DisplayName		=	Cassette Boyz II Men - Motownphilly (1991),
+		DisplayName		=	Tape: Boyz II Men - Motownphilly (1991),
 		WorldStaticModel = True_Moozic_BHi.TCTape12,
 		CanSpawn		=	true,
 	}
@@ -330,7 +330,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Bruce Hornsby - The Way It Is (1986),
+		DisplayName		=	Tape: Bruce Hornsby - The Way It Is (1986),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -341,7 +341,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Bryan Adams - Summer Of '69 (1984),
+		DisplayName		=	Tape: Bryan Adams - Summer Of '69 (1984),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -352,7 +352,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape4,
-		DisplayName		=	Cassette Chumbawamba - Tubthumping (1997),
+		DisplayName		=	Tape: Chumbawamba - Tubthumping (1997),
 		WorldStaticModel = True_Moozic_BHi.TCTape4,
 		CanSpawn		=	true,
 	}
@@ -363,7 +363,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Clash - Rock the Casbah (1982),
+		DisplayName		=	Tape: Clash - Rock the Casbah (1982),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -374,7 +374,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape9,
-		DisplayName		=	Cassette Coolio - Gangsta's Paradise (1995),
+		DisplayName		=	Tape: Coolio - Gangsta's Paradise (1995),
 		WorldStaticModel = True_Moozic_BHi.TCTape9,
 		CanSpawn		=	true,
 	}
@@ -385,7 +385,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape12,
-		DisplayName		=	Cassette Creedence Clearwater Revival - Fortunate Son (1969),
+		DisplayName		=	Tape: Creedence Clearwater Revival - Fortunate Son (1969),
 		WorldStaticModel = True_Moozic_BHi.TCTape12,
 		CanSpawn		=	true,
 	}
@@ -396,7 +396,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Creedence Clearwater Revival - Have You Ever Seen the Rain (1968),
+		DisplayName		=	Tape: Creedence Clearwater Revival - Have You Ever Seen the Rain (1968),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -407,7 +407,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Culture Club - Karma Chameleon (1983),
+		DisplayName		=	Tape: Culture Club - Karma Chameleon (1983),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -418,7 +418,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape7,
-		DisplayName		=	Cassette Cyndi Lauper - All Through The Night (1983),
+		DisplayName		=	Tape: Cyndi Lauper - All Through The Night (1983),
 		WorldStaticModel = True_Moozic_BHi.TCTape7,
 		CanSpawn		=	true,
 	}
@@ -429,7 +429,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape3,
-		DisplayName		=	Cassette Cyndi Lauper - Girls Just Want To Have Fun (1983),
+		DisplayName		=	Tape: Cyndi Lauper - Girls Just Want To Have Fun (1983),
 		WorldStaticModel = True_Moozic_BHi.TCTape3,
 		CanSpawn		=	true,
 	}
@@ -440,7 +440,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Cyndi Lauper - Hey Now (Girls Just Want To Have Fun) (1983),
+		DisplayName		=	Tape: Cyndi Lauper - Hey Now (Girls Just Want To Have Fun) (1983),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -451,7 +451,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape6,
-		DisplayName		=	Cassette Cyndi Lauper - I Drove All Night (1989),
+		DisplayName		=	Tape: Cyndi Lauper - I Drove All Night (1989),
 		WorldStaticModel = True_Moozic_BHi.TCTape6,
 		CanSpawn		=	true,
 	}
@@ -462,7 +462,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette Cyndi Lauper - She Bop (1983),
+		DisplayName		=	Tape: Cyndi Lauper - She Bop (1983),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -473,7 +473,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape3,
-		DisplayName		=	Cassette Cyndi Lauper - The Goonies 'R' Good Enough (1985),
+		DisplayName		=	Tape: Cyndi Lauper - The Goonies 'R' Good Enough (1985),
 		WorldStaticModel = True_Moozic_BHi.TCTape3,
 		CanSpawn		=	true,
 	}
@@ -484,7 +484,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Cyndi Lauper - When You Were Mine (1985),
+		DisplayName		=	Tape: Cyndi Lauper - When You Were Mine (1985),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -495,7 +495,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Daryl Hall & John Oates - Maneater (1982),
+		DisplayName		=	Tape: Daryl Hall & John Oates - Maneater (1982),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -506,7 +506,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette David Bowie - Space Oddity (1969),
+		DisplayName		=	Tape: David Bowie - Space Oddity (1969),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -517,7 +517,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette David Bowie & Queen - Under Pressure (1981),
+		DisplayName		=	Tape: David Bowie & Queen - Under Pressure (1981),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -528,7 +528,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette David Bowie - Suffragette City (1972),
+		DisplayName		=	Tape: David Bowie - Suffragette City (1972),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -539,7 +539,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape12,
-		DisplayName		=	Cassette David Bowie - The man who sold the world (1970),
+		DisplayName		=	Tape: David Bowie - The man who sold the world (1970),
 		WorldStaticModel = True_Moozic_BHi.TCTape12,
 		CanSpawn		=	true,
 	}
@@ -550,7 +550,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape7,
-		DisplayName		=	Cassette Devo - Whip It (1980),
+		DisplayName		=	Tape: Devo - Whip It (1980),
 		WorldStaticModel = True_Moozic_BHi.TCTape7,
 		CanSpawn		=	true,
 	}
@@ -561,7 +561,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape3,
-		DisplayName		=	Cassette Don Mclean - American Pie (1971),
+		DisplayName		=	Tape: Don Mclean - American Pie (1971),
 		WorldStaticModel = True_Moozic_BHi.TCTape3,
 		CanSpawn		=	true,
 	}
@@ -572,7 +572,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Eagles - Hotel California (1977),
+		DisplayName		=	Tape: Eagles - Hotel California (1977),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -583,7 +583,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette ELO - Mr. Blue Sky (1977),
+		DisplayName		=	Tape: ELO - Mr. Blue Sky (1977),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -594,7 +594,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Elton John - Rocket Man (1972),
+		DisplayName		=	Tape: Elton John - Rocket Man (1972),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -605,7 +605,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape12,
-		DisplayName		=	Cassette Europe - The Final Countdown (1986),
+		DisplayName		=	Tape: Europe - The Final Countdown (1986),
 		WorldStaticModel = True_Moozic_BHi.TCTape12,
 		CanSpawn		=	true,
 	}
@@ -616,7 +616,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette Gary Numan - Cars (1979),
+		DisplayName		=	Tape: Gary Numan - Cars (1979),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -627,7 +627,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape9,
-		DisplayName		=	Cassette Gershon Kingsley - Popcorn (1969),
+		DisplayName		=	Tape: Gershon Kingsley - Popcorn (1969),
 		WorldStaticModel = True_Moozic_BHi.TCTape9,
 		CanSpawn		=	true,
 	}
@@ -638,7 +638,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape10,
-		DisplayName		=	Cassette Guns N' Roses - Welcome To The Jungle (1987),
+		DisplayName		=	Tape: Guns N' Roses - Welcome To The Jungle (1987),
 		WorldStaticModel = True_Moozic_BHi.TCTape10,
 		CanSpawn		=	true,
 	}
@@ -649,7 +649,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape3,
-		DisplayName		=	Cassette House of Pain - Jump Around (1992),
+		DisplayName		=	Tape: House of Pain - Jump Around (1992),
 		WorldStaticModel = True_Moozic_BHi.TCTape3,
 		CanSpawn		=	true,
 	}
@@ -660,7 +660,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape3,
-		DisplayName		=	Cassette Jim Croce - Time In A Bottle (1972),
+		DisplayName		=	Tape: Jim Croce - Time In A Bottle (1972),
 		WorldStaticModel = True_Moozic_BHi.TCTape3,
 		CanSpawn		=	true,
 	}
@@ -671,7 +671,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape12,
-		DisplayName		=	Cassette Kansas - Dust in the Wind (1977),
+		DisplayName		=	Tape: Kansas - Dust in the Wind (1977),
 		WorldStaticModel = True_Moozic_BHi.TCTape12,
 		CanSpawn		=	true,
 	}
@@ -682,7 +682,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Kenny Loggins - Danger Zone (1986),
+		DisplayName		=	Tape: Kenny Loggins - Danger Zone (1986),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -693,7 +693,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Kraftwerk - Pocket Calculator (1981),
+		DisplayName		=	Tape: Kraftwerk - Pocket Calculator (1981),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -704,7 +704,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Laurie Anderson - O Superman (1981),
+		DisplayName		=	Tape: Laurie Anderson - O Superman (1981),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -715,7 +715,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Leonard Cohen - Famous Blue Raincoat (1971),
+		DisplayName		=	Tape: Leonard Cohen - Famous Blue Raincoat (1971),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -726,7 +726,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette LL COOL J - Mama Said Knock You Out (1990),
+		DisplayName		=	Tape: LL COOL J - Mama Said Knock You Out (1990),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -737,7 +737,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Lou Reed - Perfect Day (1972),
+		DisplayName		=	Tape: Lou Reed - Perfect Day (1972),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -748,7 +748,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette Lou Reed - Walk on the Wild Side (1972),
+		DisplayName		=	Tape: Lou Reed - Walk on the Wild Side (1972),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -759,7 +759,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape4,
-		DisplayName		=	Cassette Loverboy - Working for the Weekend (1981),
+		DisplayName		=	Tape: Loverboy - Working for the Weekend (1981),
 		WorldStaticModel = True_Moozic_BHi.TCTape4,
 		CanSpawn		=	true,
 	}
@@ -770,7 +770,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Lynryd Skynyrd - Sweet Home Alabama (1974),
+		DisplayName		=	Tape: Lynryd Skynyrd - Sweet Home Alabama (1974),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -781,7 +781,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Madonna - Like A Virgin (1984),
+		DisplayName		=	Tape: Madonna - Like A Virgin (1984),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -792,7 +792,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette Matthew Wilder - Break My Stride (1983),
+		DisplayName		=	Tape: Matthew Wilder - Break My Stride (1983),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -803,7 +803,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape10,
-		DisplayName		=	Cassette MC Hammer - U Can't Touch This (1990),
+		DisplayName		=	Tape: MC Hammer - U Can't Touch This (1990),
 		WorldStaticModel = True_Moozic_BHi.TCTape10,
 		CanSpawn		=	true,
 	}
@@ -814,7 +814,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape6,
-		DisplayName		=	Cassette Michael Jackson - Beat It (1982),
+		DisplayName		=	Tape: Michael Jackson - Beat It (1982),
 		WorldStaticModel = True_Moozic_BHi.TCTape6,
 		CanSpawn		=	true,
 	}
@@ -825,7 +825,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Michael Jackson - Thriller (1983),
+		DisplayName		=	Tape: Michael Jackson - Thriller (1983),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -836,7 +836,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Motorhead - Ace Of Spades (1980),
+		DisplayName		=	Tape: Motorhead - Ace Of Spades (1980),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -847,7 +847,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape3,
-		DisplayName		=	Cassette Natalie Imbruglia - Torn (1997),
+		DisplayName		=	Tape: Natalie Imbruglia - Torn (1997),
 		WorldStaticModel = True_Moozic_BHi.TCTape3,
 		CanSpawn		=	true,
 	}
@@ -858,7 +858,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape3,
-		DisplayName		=	Cassette Naughty By Nature - O.P.P. (1991),
+		DisplayName		=	Tape: Naughty By Nature - O.P.P. (1991),
 		WorldStaticModel = True_Moozic_BHi.TCTape3,
 		CanSpawn		=	true,
 	}
@@ -869,7 +869,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape12,
-		DisplayName		=	Cassette Neil Young - Cinnamon Girl (1969),
+		DisplayName		=	Tape: Neil Young - Cinnamon Girl (1969),
 		WorldStaticModel = True_Moozic_BHi.TCTape12,
 		CanSpawn		=	true,
 	}
@@ -880,7 +880,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape3,
-		DisplayName		=	Cassette Neil Young - Cowgirl In The Sand (1969),
+		DisplayName		=	Tape: Neil Young - Cowgirl In The Sand (1969),
 		WorldStaticModel = True_Moozic_BHi.TCTape3,
 		CanSpawn		=	true,
 	}
@@ -891,7 +891,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette NENA - 99 Red Balloons (1984),
+		DisplayName		=	Tape: NENA - 99 Red Balloons (1984),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -902,7 +902,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape7,
-		DisplayName		=	Cassette Pink Floyd - Comfortably Numb (1980),
+		DisplayName		=	Tape: Pink Floyd - Comfortably Numb (1980),
 		WorldStaticModel = True_Moozic_BHi.TCTape7,
 		CanSpawn		=	true,
 	}
@@ -913,7 +913,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape9,
-		DisplayName		=	Cassette Queen - Another One Bites the Dust (1980),
+		DisplayName		=	Tape: Queen - Another One Bites the Dust (1980),
 		WorldStaticModel = True_Moozic_BHi.TCTape9,
 		CanSpawn		=	true,
 	}
@@ -924,7 +924,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape12,
-		DisplayName		=	Cassette Queen - Bohemian Rhapsody (1975),
+		DisplayName		=	Tape: Queen - Bohemian Rhapsody (1975),
 		WorldStaticModel = True_Moozic_BHi.TCTape12,
 		CanSpawn		=	true,
 	}
@@ -935,7 +935,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape4,
-		DisplayName		=	Cassette Redbone - Come and Get Your Love (1973),
+		DisplayName		=	Tape: Redbone - Come and Get Your Love (1973),
 		WorldStaticModel = True_Moozic_BHi.TCTape4,
 		CanSpawn		=	true,
 	}
@@ -946,7 +946,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape10,
-		DisplayName		=	Cassette REO Speedwagon - Can't Fight This Feeling (1984),
+		DisplayName		=	Tape: REO Speedwagon - Can't Fight This Feeling (1984),
 		WorldStaticModel = True_Moozic_BHi.TCTape10,
 		CanSpawn		=	true,
 	}
@@ -957,7 +957,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette Rick Astley - Never Gonna Give You Up (1987),
+		DisplayName		=	Tape: Rick Astley - Never Gonna Give You Up (1987),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -968,7 +968,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Rolling Stones - Paint It Black (1966),
+		DisplayName		=	Tape: Rolling Stones - Paint It Black (1966),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -979,7 +979,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Salt-N-Pepa - Shoop (1993),
+		DisplayName		=	Tape: Salt-N-Pepa - Shoop (1993),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -990,7 +990,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Scatman (ski-ba-bop-ba-dop-bop) (1995),
+		DisplayName		=	Tape: Scatman (ski-ba-bop-ba-dop-bop) (1995),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -1001,7 +1001,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Simon & Garfunkel - Cecilia (1970),
+		DisplayName		=	Tape: Simon & Garfunkel - Cecilia (1970),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -1012,7 +1012,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Simon & Garfunkel - Mrs. Robinson (1968),
+		DisplayName		=	Tape: Simon & Garfunkel - Mrs. Robinson (1968),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -1023,7 +1023,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Sinead O'Connor - Nothing Compares 2 U (1992),
+		DisplayName		=	Tape: Sinead O'Connor - Nothing Compares 2 U (1992),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -1034,7 +1034,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape3,
-		DisplayName		=	Cassette Sir Mix-A-Lot - Baby Got Back (1992),
+		DisplayName		=	Tape: Sir Mix-A-Lot - Baby Got Back (1992),
 		WorldStaticModel = True_Moozic_BHi.TCTape3,
 		CanSpawn		=	true,
 	}
@@ -1045,7 +1045,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Starship - Nothing's Gonna Stop Us Now (1987),
+		DisplayName		=	Tape: Starship - Nothing's Gonna Stop Us Now (1987),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -1056,7 +1056,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape9,
-		DisplayName		=	Cassette Steve Earle - Colorado Girl (2009),
+		DisplayName		=	Tape: Steve Earle - Colorado Girl (2009),
 		WorldStaticModel = True_Moozic_BHi.TCTape9,
 		CanSpawn		=	true,
 	}
@@ -1067,7 +1067,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Steve Earle - Loretta (2009),
+		DisplayName		=	Tape: Steve Earle - Loretta (2009),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -1078,7 +1078,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Steve Earle - White Freightliner Blues (2009),
+		DisplayName		=	Tape: Steve Earle - White Freightliner Blues (2009),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -1089,7 +1089,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Taco - Puttin' On The Ritz (1982),
+		DisplayName		=	Tape: Taco - Puttin' On The Ritz (1982),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -1100,7 +1100,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Talking Heads - Once in a Lifetime (1980),
+		DisplayName		=	Tape: Talking Heads - Once in a Lifetime (1980),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -1111,7 +1111,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Talking Heads - Psycho Killer (1977),
+		DisplayName		=	Tape: Talking Heads - Psycho Killer (1977),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -1122,7 +1122,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape8,
-		DisplayName		=	Cassette Tears for Fears - Everybody Wants to Rule the World (1985),
+		DisplayName		=	Tape: Tears for Fears - Everybody Wants to Rule the World (1985),
 		WorldStaticModel = True_Moozic_BHi.TCTape8,
 		CanSpawn		=	true,
 	}
@@ -1133,7 +1133,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Techno Syndrome (Mortal Kombat) (1994),
+		DisplayName		=	Tape: Techno Syndrome (Mortal Kombat) (1994),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -1144,7 +1144,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette Technotronic - Pump Up The Jam (1989),
+		DisplayName		=	Tape: Technotronic - Pump Up The Jam (1989),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -1155,7 +1155,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape10,
-		DisplayName		=	Cassette The Animals - House of the Rising Sun (1964),
+		DisplayName		=	Tape: The Animals - House of the Rising Sun (1964),
 		WorldStaticModel = True_Moozic_BHi.TCTape10,
 		CanSpawn		=	true,
 	}
@@ -1166,7 +1166,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette The Beach Boys - Kokomo (1988),
+		DisplayName		=	Tape: The Beach Boys - Kokomo (1988),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -1177,7 +1177,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette The Buggles - Video Killed the Radio Star (1979),
+		DisplayName		=	Tape: The Buggles - Video Killed the Radio Star (1979),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -1188,7 +1188,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape4,
-		DisplayName		=	Cassette The Last of Us (2013),
+		DisplayName		=	Tape: The Last of Us (2013),
 		WorldStaticModel = True_Moozic_BHi.TCTape4,
 		CanSpawn		=	true,
 	}
@@ -1199,7 +1199,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape2,
-		DisplayName		=	Cassette The Oh Hellos - Soldier Poet King (2015),
+		DisplayName		=	Tape: The Oh Hellos - Soldier Poet King (2015),
 		WorldStaticModel = True_Moozic_BHi.TCTape2,
 		CanSpawn		=	true,
 	}
@@ -1210,7 +1210,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette The Police - Every breath you take (1983),
+		DisplayName		=	Tape: The Police - Every breath you take (1983),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -1221,7 +1221,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape12,
-		DisplayName		=	Cassette The Police - Roxanne (1979),
+		DisplayName		=	Tape: The Police - Roxanne (1979),
 		WorldStaticModel = True_Moozic_BHi.TCTape12,
 		CanSpawn		=	true,
 	}
@@ -1232,7 +1232,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape6,
-		DisplayName		=	Cassette The Prodigy - Breathe (1996),
+		DisplayName		=	Tape: The Prodigy - Breathe (1996),
 		WorldStaticModel = True_Moozic_BHi.TCTape6,
 		CanSpawn		=	true,
 	}
@@ -1243,7 +1243,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette The Shins - New Slang (2001),
+		DisplayName		=	Tape: The Shins - New Slang (2001),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -1254,7 +1254,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape7,
-		DisplayName		=	Cassette The Stranglers - Golden Brown (1981),
+		DisplayName		=	Tape: The Stranglers - Golden Brown (1981),
 		WorldStaticModel = True_Moozic_BHi.TCTape7,
 		CanSpawn		=	true,
 	}
@@ -1265,7 +1265,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape4,
-		DisplayName		=	Cassette The Verve - Bitter Sweet Symphony (1997),
+		DisplayName		=	Tape: The Verve - Bitter Sweet Symphony (1997),
 		WorldStaticModel = True_Moozic_BHi.TCTape4,
 		CanSpawn		=	true,
 	}
@@ -1276,7 +1276,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape1,
-		DisplayName		=	Cassette Tiffany - I Think We're Alone Now (1987),
+		DisplayName		=	Tape: Tiffany - I Think We're Alone Now (1987),
 		WorldStaticModel = True_Moozic_BHi.TCTape1,
 		CanSpawn		=	true,
 	}
@@ -1287,7 +1287,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape12,
-		DisplayName		=	Cassette Tom Petty - Free Falling (1988),
+		DisplayName		=	Tape: Tom Petty - Free Falling (1988),
 		WorldStaticModel = True_Moozic_BHi.TCTape12,
 		CanSpawn		=	true,
 	}
@@ -1298,7 +1298,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape11,
-		DisplayName		=	Cassette Tone-Loc - Funky Cold Medina (1989),
+		DisplayName		=	Tape: Tone-Loc - Funky Cold Medina (1989),
 		WorldStaticModel = True_Moozic_BHi.TCTape11,
 		CanSpawn		=	true,
 	}
@@ -1309,7 +1309,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape5,
-		DisplayName		=	Cassette Twisted Sister - We're Not Gonna Take It (1984),
+		DisplayName		=	Tape: Twisted Sister - We're Not Gonna Take It (1984),
 		WorldStaticModel = True_Moozic_BHi.TCTape5,
 		CanSpawn		=	true,
 	}
@@ -1320,7 +1320,7 @@ module True_Moozic_BHi
 		DisplayCategory = Entertainment,
 		Weight			=	0.01,
 		Icon			=	TCTape6,
-		DisplayName		=	Cassette Vanilla Ice - Ice Ice Baby (1990),
+		DisplayName		=	Tape: Vanilla Ice - Ice Ice Baby (1990),
 		WorldStaticModel = True_Moozic_BHi.TCTape6,
 		CanSpawn		=	true,
 	}
